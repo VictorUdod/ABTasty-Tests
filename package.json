@@ -1,0 +1,15 @@
+{
+  "name": "abtasty",
+  "version": "1.0.0",
+  "description": "Test login page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Victor Udod",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "13.0.0"
+  }
+}
